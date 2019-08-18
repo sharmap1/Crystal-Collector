@@ -1,6 +1,6 @@
 # unit-4-game
 
-<img src="assets/images/screenshot.jpg" width="250" height="250" align="right"> 
+<img src="assets/images/screenshot.jpg" width="350" height="250" align="right"> 
 
 Crystal Collector Game!
 
