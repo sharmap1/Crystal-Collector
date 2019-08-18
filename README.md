@@ -1,4 +1,6 @@
 # unit-4-game
+<img src = "assets/images/screenshot.jpg" width = "100" height = "100">
+![](assets/images/screenshot.jpg)
 
 <img src="assets/images/screenshot.jpg" width="100" height="100"> 
 
@@ -48,3 +50,7 @@ https://sharmap1.github.io/unit-4-game/.
 
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 142c623a346a5c7d297ef34e30665011bbbb1f20
