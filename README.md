@@ -37,9 +37,14 @@ Instruction of the game:
 
    * The app should show the number of games the player wins and loses. To that end, do not refresh the page as a means to restart the game.
 
-   
+      
 Used HTML, CSS, Javascript, JQuery.
 
 Enjoy playing in the link below:
 
 https://sharmap1.github.io/unit-4-game/.
+
+
+Try this markdown:
+
+![alt text](./assets/images/screenshot.jpg)
