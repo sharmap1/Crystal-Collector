@@ -6,7 +6,8 @@
         var green = Math.floor(Math.random() * 12) + 1;
         //    * The player will be shown a random number at the start of the game.
         // var randomNumber = Math.floor(Math.random() * 12) + 1; // crystal random number
-        var masterNumber= Math.floor((Math.random() * 120) + 19);
+        // Math.floor(Math.random() * (max - min + 1)) + min;
+        var masterNumber= Math.floor(Math.random() * (120 - 19 + 1)) + 19;
         var addition = 0;
         var wins = 0;
         var losses = 0;
@@ -43,7 +44,7 @@
             //   var randomNumber = Math.floor((Math.random() * 12) + 1);
             //   $(this).attr("crystalValue", randomNumber)
             // })
-            masterNumber= Math.floor((Math.random() * 120) + 19);
+            masterNumber= Math.floor(Math.random() * (120 - 19 + 1)) + 19;
             $("#masterNumber").empty();
             $("#masterNumber").append(masterNumber);
             addition = 0;
