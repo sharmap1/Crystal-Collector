@@ -1,5 +1,7 @@
 # unit-4-game
 
+<img src="assets/images/screenshot.jpg" width="100" height="100"> 
+
 Crystal Collector Game!
 
 Overview:
@@ -45,6 +47,4 @@ Enjoy playing in the link below:
 https://sharmap1.github.io/unit-4-game/.
 
 
-Try this markdown:
 
-![alt text](./assets/images/screenshot.jpg)
