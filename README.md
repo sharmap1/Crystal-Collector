@@ -1,4 +1,4 @@
-# unit-4-game
+# Crystal Collector
 
 <img src="assets/images/screenshot.jpg" width="300" height="250" align="right"> 
 
